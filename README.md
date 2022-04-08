@@ -5,6 +5,8 @@ Bon main chef
 
 Énorme modification
 
-1. item 1
-2. item 2
-3. item 3
+1. GLaDOS
+2. Atlas
+3. P-body
+4. Chell
+5. Cake

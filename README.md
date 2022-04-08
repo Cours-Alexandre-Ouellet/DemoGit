@@ -1,6 +1,8 @@
 DemoGit
 Bon main chef
 
+&#127874;
+
 # Titre
 
 Énorme modification
